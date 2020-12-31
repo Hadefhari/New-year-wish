@@ -17,9 +17,9 @@ for i in range(1,1000):
 
 	if(i % 10 == 0):
 		print("v^v^v^v^v^v^v^v^v^v^v^v^v^v^v")
-		print("<     					   >")
+		print("<     			   >")
 		print("<   'Happy New Year 2021'   >")
-		print("<                           >")
+		print("<       By Haripriya        >")
 		print("v^v^v^v^v^v^v^v^v^v^v^v^v^v^v")
 		
 		
